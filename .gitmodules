@@ -1,0 +1,6 @@
+[submodule ".vim/ruby/command-t"]
+	path = .vim/ruby/command-t
+	url = git://git.wincent.com/command-t.git
+[submodule ".themes/Carbole"]
+	path = .themes/Carbole
+	url = git://github.com/Paaskehare/Carbole.git
